@@ -1,2 +1,4 @@
 # code_3000
 Collection of Assignments for CSE 3000: Contemporary Issues in Computer Science and Engineering
+
+After reading chapter 5 of "Ethical Machines", I began to reflect on what my views on ethics truly are. While I consider myself someone with "good" ethical values, I find myself sometimes being very contradictory and hypocritical. I may judge others more strictly than I judge myself or do the very actions that I criticize someone else for. On occasion, I may forgo some ethic values in order to complete a task in the most efficient, swiftest way. Which makes me wonder, can I really criticize one for using immoral or underhanded tactics in order to improve his/her life? Obviously the degree of the tactic matters but I believe depending on said degree, all people will put themselves first, ahead of their ethical values.
